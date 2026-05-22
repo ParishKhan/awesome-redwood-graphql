@@ -60,6 +60,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Part 2](https://www.youtube.com/watch?v=SP5vbsWf5Yg)
 * [Part 3](https://www.youtube.com/watch?v=eT7iIy0F8Tk)
 * [Part 4](https://www.youtube.com/watch?v=UpD3HyuZkvY)
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Deployment
 
